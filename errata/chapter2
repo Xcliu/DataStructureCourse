@@ -1,0 +1,5 @@
+errata of the text book:
+
+Yangyao:
+p68, program2.23, 'delete p;'
+CircList has a 'head node' without data. This 'delete' could possibly remove the head node?
